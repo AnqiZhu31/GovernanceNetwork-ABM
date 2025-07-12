@@ -1,2 +1,2 @@
-This is an empirically grounded agent-based model (ABM) designed to simulate how stakeholders embedded in governance networks facilitate community loss-sharing and post-flood recovery in Guangzhou, China. The model investigates how network structures, inter-stakeholder trust, and the diffusion of flood resilience measures within governance networks influence community flood resilience. 
-Download NetLogo 6.4 and open our ABM code file. Let's play with the governance network abm!  
+This is an empirically grounded agent-based model (ABM) designed to simulate how stakeholders embedded in governance networks facilitate community loss-sharing and post-flood recovery in Guangzhou, China. The model investigates how network structures, inter-stakeholder trust, and the diffusion of flood resilience measures within governance networks influence community flood resilience.   
+Download NetLogo 6.4 and open our ABM code file. Let's play with the governance network ABM!  
